@@ -2,6 +2,6 @@
   <n-button>naive-ui</n-button>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { NButton } from 'naive-ui'
 </script>
